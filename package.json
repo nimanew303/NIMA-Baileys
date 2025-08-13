@@ -1,5 +1,5 @@
 {
-  "name": "@drayyy/XD-Baileys",
+  "name": "NIMA-V5",
   "version": "1.0.2",
   "description": "WhatsApp Beta",
   "keywords": [
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/MRSHABAN45/@sk/Shaban-Baileys",
+  "homepage": "https://github.com/nimanew303/NIMA-Baileys",
   "repository": {
-    "url": "git@github.com:MRSHABAN45/@sk/Shaban-Baileys.git"
+    "url": "git@github.com/nimanew303/NIMA-Baileys.git"
   },
   "license": "MIT",
-  "author": "MR SHABAN",
+  "author": "MR NIMESHA",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
